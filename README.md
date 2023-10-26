@@ -5,6 +5,7 @@ This repository serves as a starting point for setting up a web server with the 
 - Node.js: A JavaScript runtime environment that allows you to run JavaScript on the server.
 - Express: A fast, unopinionated, and minimalist web framework for Node.js.
 ## Contributions 
+This project was brought to fruition thanks to the collaborative efforts of Group 27, comprising Michael, Elaine, from OSU and Nicole from Immaculata University.
 ## Terminal Application 
 # Step 1
 # Step 2
