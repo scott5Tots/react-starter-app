@@ -7,6 +7,6 @@ Components are independent and reusable files that work ‘isolated’ from the 
 Pages folder defines how each page (ex. http://flip3.engr.oregonstate.edu:5547/players) is structured. App.js is our main page (http://flip3.engr.oregonstate.edu:5547/)<br><br>
 ![app.js file](https://github.com/scott5Tots/react-starter-app/blob/main/Step%203/assets/Src.png)<br><br>
 Client App.js showing how to get data from server. To get data from the express server, use a function similar to this.<br><br>
-![app.js file](https://github.com/scott5Tots/react-starter-app/blob/main/Step%203/assets/Client%20app.png)<br>
-The end result should appear as so<br>
+![app.js file](https://github.com/scott5Tots/react-starter-app/blob/main/Step%203/assets/Client%20app.png)<br><br>
+The end result should appear as so<br><br>
 ![app.js file](https://github.com/scott5Tots/react-starter-app/blob/main/Step%203/assets/Endresult.png)
