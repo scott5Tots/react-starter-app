@@ -11,7 +11,7 @@ Students are expeceted to have followed the node.js starter app [repo](https://g
 - Models
 - Controllers
 ## Contributions 
-This project was brought to fruition thanks to the collaborative efforts of Group 27, comprising Michael, Elaine, from OSU and Nicole from Immaculata University.
+This project is the result of collaborative efforts from Michael and Aline, both from Oregon State University (OSU), and Nicole from Immaculata University.
 ## Terminal Application 
 # Step 1
 # Step 2
