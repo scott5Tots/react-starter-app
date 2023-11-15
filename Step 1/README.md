@@ -8,7 +8,7 @@ Create a main directory in the flip servers where you want your app to reside. C
 ![Create backend directory](https://github.com/scott5Tots/react-starter-app/blob/main/Step%201/assets/Backend-dir.png) <br>
 
 Next, run <br>
-```npm init``` or ```npm init -y``` for quick setup. <br>
+```npm init``` or ```npm init -y``` for quick setup. <br><br><br>
 ![npm init](https://github.com/scott5Tots/react-starter-app/blob/main/Step%201/assets/Backend-init.png) <br>
 Install the following dependencies
 * express
