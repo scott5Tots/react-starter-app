@@ -10,8 +10,15 @@ Create a main directory in the flip servers where you want your app to reside. C
 Next, run <br>
 ```npm init``` or ```npm init -y``` for quick setup. <br><br>
 ![npm init](https://github.com/scott5Tots/react-starter-app/blob/main/Step%201/assets/Backend-init.png) <br>
-Install the following dependencies
+Install the following dependencies:
 * express
 * cors
 * mysql <br><br>
 ![install dependencies](https://github.com/scott5Tots/react-starter-app/blob/main/Step%201/assets/Backend-dep.png) <br>
+---
+Open a new terminal and in your main directory run the following command ```npx create-react-app client```. This will make a new directory ‘client’ and install node + react dependencies. Change directory to ‘client’ and install:
+* react-router-dom
+* axios
+---
+This is what the main project directory should look like. <br><br>
+![Directory overview](https://github.com/scott5Tots/react-starter-app/blob/main/Step%201/assets/Main-dir.png)
