@@ -9,3 +9,4 @@ Pages folder defines how each page (ex. http://flip3.engr.oregonstate.edu:5547/p
 Client App.js showing how to get data from server. To get data from the express server, use a function similar to this.<br><br>
 ![app.js file](https://github.com/scott5Tots/react-starter-app/blob/main/Step%203/assets/Client%20app.png)<br>
 The end result should appear as so<br>
+![app.js file](https://github.com/scott5Tots/react-starter-app/blob/main/Step%203/assets/Endresult.png)
