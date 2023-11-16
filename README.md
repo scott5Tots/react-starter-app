@@ -1,9 +1,5 @@
 # Overview
-This repository serves as a starting point for setting up a web server with the following components:
-
-- React: A popular JavaScript library for building user interfaces.
-- Node.js: A JavaScript runtime environment that allows you to run JavaScript on the server.
-- Express: A fast, unopinionated, and minimalist web framework for Node.js.
+This repository is designed to complement the "nodejs-starter-app" repository and is **not** intended to be a substitute. Prior to engaging with this material, students should ensure they have completed up to Step 5 of the aforementioned Node.js guide. Additionally, this repository does not provide a comprehensive tutorial on React – though we will offer some tips and best practices. A foundational understanding of JavaScript is expected, and our focus will be on setting up a connection between the node/express/SQL server (backend) and the React app (client).
 ## Prerequisites
 Students are expeceted to have followed the node.js starter app [repo](https://github.com/osu-cs340-ecampus/nodejs-starter-app/tree/main).
   Students should have experience with the following:
