@@ -9,7 +9,6 @@ The request is being sent to `http://flip3.engr.oregonstate.edu:4610/structures`
 
 ### JSON Body & Response
 The JSON data sent to the API should match the database's format, which in this instance includes fields for coordinates, userAssociated, name, and description.<br><br>
-
-The response, which can be seen in the bottom right corner, is a 500 error code. This means there must be something wrong with my backend logic. (I couln't get the full response as I don't have access to the SQL servers anymore. The complete response has way more details, which helps to speed up debugging).<br><br>
+The response, which can be seen in the bottom right corner, is a 500 error code. This means there must be something wrong with my backend logic. (I couldn't get the full response as I don't have access to the SQL servers anymore. The complete response has way more details, which helps to speed up debugging).<br><br>
 ![POST test](https://github.com/scott5Tots/react-starter-app/blob/main/debugging/assets/post_bug.png)
 
