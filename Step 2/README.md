@@ -1,4 +1,5 @@
-# Backend - Step 2 - Backend directory
+#Backend - Step 2 - Backend directory
+
 Using the 'touch' command, create a new file called `app.js`. <br>
 `app.js` configures the Express server with routes for different data entities. This approach allows us to use a modular architecture, where each route is associated with a specific data entity (in our project's case, locations, players, structures, etc). This is also where the `PORT` number is specified — in this example, we're using port 9884. It's important to choose a port that's not already in use by another process and/or students.
 ![app.js file](https://github.com/scott5Tots/react-starter-app/blob/main/Step%202/assets/Appjs.jpg)<br>
