@@ -1,4 +1,4 @@
-#Backend - Step 2 - Backend directory
+# Backend - Step 2 - Backend directory
 
 Using the 'touch' command, create a new file called `app.js`. <br>
 `app.js` configures the Express server with routes for different data entities. This approach allows us to use a modular architecture, where each route is associated with a specific data entity (in our project's case, locations, players, structures, etc). <br>
