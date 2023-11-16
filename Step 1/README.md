@@ -7,8 +7,8 @@ The following instructions assumes your SQL tables have been uploaded/imported t
 Create a main directory in the flip servers where you want your app to reside. Change directories to that folder and make a directory called ‘backend’. This directory will have all the backend logic and controllers for the react app. <br><br>
 ![Create backend directory](https://github.com/scott5Tots/react-starter-app/blob/main/Step%201/assets/Backend-dir.png) <br>
 
-Next, run <br>
-```npm init``` or ```npm init -y``` for quick setup. <br><br>
+Next, run `cd backend` to change directories to the newly created `backend` folder <br>
+Now you can initialize node using ```npm init``` or ```npm init -y``` for quick setup. <br><br>
 ![npm init](https://github.com/scott5Tots/react-starter-app/blob/main/Step%201/assets/Backend-init.png) <br>
 Install the following dependencies:
 * express
