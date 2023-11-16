@@ -19,6 +19,7 @@ The response, which can be seen in the bottom right corner, is a 500 error code.
 ![POST test](https://github.com/scott5Tots/react-starter-app/blob/main/debugging/assets/post_bug.png)
 
 As seen in the image above, that record should not have been created; however, as you can see here:
+
 ![GET method](https://github.com/scott5Tots/react-starter-app/blob/main/debugging/assets/get_bug.png)
 
 The GET method was successful at retrieving that record. The issue we were having had to do with our `structures` controller logic.
