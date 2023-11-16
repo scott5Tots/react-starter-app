@@ -1,12 +1,16 @@
-The React app is made up of different parts. 
+The React app is made up of different parts:
 * Components
 * Pages
-* Main App.js <br>
+* App.js <br>
 ___
-Components are independent and reusable files that work ‘isolated’ from the main app. In this project, our components tell our app how to get/put/post/delete data from our backend server. Components are also useful if you want to add a nav bar and modals. <br>
-Pages folder defines how each page (ex. http://flip3.engr.oregonstate.edu:5547/players) is structured. App.js is our main page (http://flip3.engr.oregonstate.edu:5547/)<br><br>
+Components are independent and reusable files that work "isolated" from the main app. In this project, our components tell our app how to `get, put, post, delete` data from our backend server. Components are also useful if you want to add a nav bar and modals. <br>
+The pages folder defines how each page (ex. http://flip3.engr.oregonstate.edu:5547/players) is structured. App.js is our main page (http://flip3.engr.oregonstate.edu:5547/)<br><br>
 ![app.js file](https://github.com/scott5Tots/react-starter-app/blob/main/Step%203/assets/Src.png)<br><br>
-Client App.js showing how to get data from server. To get data from the express server, use a function similar to this.<br><br>
+___
+The `App.js` client file demonstrates a basic method for retrieving data from an Express server. It employs a function to fetch SQL data when the component mounts using the axios library for the HTTP GET request.
+
+Please note, this example is simplistic and does not adhere to React best practices. Ideally, server calls should be handled within a separate component or service function rather than directly in the main `App.js` file. This approach helps to maintain clean code, separation of concerns, and better reusability across the application.
+
 ![app.js file](https://github.com/scott5Tots/react-starter-app/blob/main/Step%203/assets/Client%20app.png)<br><br>
-The end result should appear as so<br><br>
+The end result should appear as so: <br><br>
 ![app.js file](https://github.com/scott5Tots/react-starter-app/blob/main/Step%203/assets/Endresult.png)
