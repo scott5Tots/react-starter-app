@@ -13,7 +13,7 @@ Please note, this example is simplistic and does not adhere to React best practi
 
 ![app.js file](https://github.com/scott5Tots/react-starter-app/blob/main/Step%203/assets/Client%20app.png)<br><br>
 
-Before running the React app, add a port number to the start script, like so `PORT=XXXX`. This will make `npm start` run the app in said port. Make sure the PORT is not taken and is **NOT THE SAME** as your backend port.<br>
+Before running the React app, add a port number to the start script, like so `PORT=XXXX`. This will make `npm start` run the app in said port. Make sure the port is not taken and is **NOT THE SAME** as your backend port.<br>
 
 ![package.json React](https://github.com/scott5Tots/react-starter-app/blob/main/Step%203/assets/port_package.png)
 ___
