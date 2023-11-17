@@ -12,5 +12,10 @@ The `App.js` client file demonstrates a basic method for retrieving data from an
 Please note, this example is simplistic and does not adhere to React best practices. Ideally, server calls should be handled within a separate component or service function rather than directly in the main `App.js` file. This approach helps to maintain clean code, separation of concerns, and better reusability across the application.
 
 ![app.js file](https://github.com/scott5Tots/react-starter-app/blob/main/Step%203/assets/Client%20app.png)<br><br>
+
+Before running the React app, add a port number the start script, like so `PORT=XXXX`. This will make `npm start` run the app in said port. Make sure the PORT is not taken and is **NOT THE SAME** as your backend port.<br>
+
+![package.json React](https://github.com/scott5Tots/react-starter-app/blob/main/Step%203/assets/port_package.png)
+___
 The end result should appear as so: <br><br>
 ![app.js file](https://github.com/scott5Tots/react-starter-app/blob/main/Step%203/assets/Endresult.png)
