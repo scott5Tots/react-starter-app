@@ -1,4 +1,4 @@
-A React application is made up of different parts:
+A React application is made up of 3 main parts:
 * Components
 * Pages
 * App.js <br>
