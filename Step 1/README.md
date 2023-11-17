@@ -1,4 +1,4 @@
-# Overview - Step 1 - Creating Project folders and adding dependencies
+Step 1 - Creating Project folders and adding dependencies
 Students are expected to have flip servers setup, with a working version of node installed on the [server.](https://github.com/osu-cs340-ecampus/nodejs-starter-app) <br>
 Not all versions of NodeJS work in the flip servers, but for me version 20.3.1 did the trick. If your having trouble with node, refer to this [post.](https://github.com/scott5Tots/react-starter-app/blob/main/Step%201/assets/node_version.png) If your still having issues, contact your TAs, instructor, or attend Office Hours. <br>
 The following instructions assumes your SQL tables have been created in the flip servers under CS340_[yourONID]. For more information, visit the [Node.js repo.](https://github.com/osu-cs340-ecampus/nodejs-starter-app/tree/main/Step%202%20-%20Loading%20Data%20into%20the%20Database)
