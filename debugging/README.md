@@ -1,6 +1,6 @@
 # Debugging
 <p align="center">
-  <img src="https://github.com/scott5Tots/react-starter-app/blob/main/debugging/assets/Ladybug.JPG" alt="Ladybug" width="720">
+  <img src="https://github.com/scott5Tots/react-starter-app/blob/main/debugging/assets/Ladybug.JPG" alt="Ladybug" width="780" height="520">
 </p>
 <br>
 
