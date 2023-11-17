@@ -1,5 +1,5 @@
 # Overview
-This repository is designed to complement the "nodejs-starter-app" repository and is **not** intended to be a substitute. Prior to engaging with this material, students should ensure they have completed up to Step 5 of the aforementioned Node.js guide. Additionally, this repository does not provide a comprehensive tutorial on React – though we will offer some tips and best practices. A foundational understanding of JavaScript is expected, and our focus will be on setting up a connection between the node/express/SQL server (backend) and the React app (client).
+This repository is designed to complement the [nodejs-starter-app](https://github.com/osu-cs340-ecampus/nodejs-starter-app) repository and is **not** intended to be a substitute. Prior to engaging with this material, students should ensure they have completed up to Step 5 of the aforementioned Node.js guide. Additionally, this repository does not provide a comprehensive tutorial on React – though we will offer some tips and best practices. A foundational understanding of JavaScript is expected, and our focus will be on setting up a connection between the node/express/SQL server (backend) and the React app (client).
 ## Prerequisites
 Students should have experience with the following:
 - JavaScript
