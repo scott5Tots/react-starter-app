@@ -13,6 +13,7 @@ Now you can initialize node using ```npm init``` or ```npm init -y``` for quick 
 Install the following dependencies:
 * express
 * cors
+* nodemon
 * mysql <br><br>
 ![install dependencies](https://github.com/scott5Tots/react-starter-app/blob/main/Step%201/assets/Backend-dep.png) <br>
 ## Creating client directory
